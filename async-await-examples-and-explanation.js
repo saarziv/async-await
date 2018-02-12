@@ -1,4 +1,5 @@
 //async and await explained.
+//its ES7 and its supported almost all browsers (updated browsers) and in node js from version 7.6 +
 
 const users = [{
   id: 1,
